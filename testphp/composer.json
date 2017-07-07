@@ -1,0 +1,5 @@
+{
+    "name": "minimoe/testphp",
+    "minimum-stability": "stable",
+    "require": {}
+}
